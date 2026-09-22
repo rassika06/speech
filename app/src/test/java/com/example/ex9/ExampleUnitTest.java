@@ -1,4 +1,4 @@
-package com.example.speech;
+package com.example.ex9;
 
 import org.junit.Test;
 

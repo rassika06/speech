@@ -22,6 +22,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "speech"
+rootProject.name = "ex9"
 include(":app")
  
